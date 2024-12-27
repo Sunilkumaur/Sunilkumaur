@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an IBM webMethods Middleware Developer and Support Consultant<br>with over 2.5 years of experience in handling deadline driven middleware<br>projects in Wipro. Also an AWS Cloud Enthusiast and self learner of it.<br>Developed architectures by leveraging AWS Cloud services 
+I'm an IBM webMethods Middleware Developer and Support Consultant with over 2.5 years of experience in handling deadline driven middleware<br>projects in Wipro. Also an AWS Cloud Enthusiast and self learner of it.Developed architectures by leveraging AWS Cloud services 
 
 
 ## 🌐 Socials:
